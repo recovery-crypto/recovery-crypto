@@ -232,4 +232,6 @@ This project is licensed under the [MIT License](/LICENSE)
 
 
 
-Update:  16.06.2025 05:52:00 Fixed broken links in system diagrams
+
+
+Update: Fixed broken link, now accessible
